@@ -1,5 +1,5 @@
 ---
-title: About Rengstuff
+title: Indice de contenidos de la web
 feature_text: |
   ## Rengstuff
   Material para facilitar el aprendizaje de conocimientos de ingenieria
@@ -14,9 +14,20 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 - Energías renovables
 - El hidrogeno como vector energético
 - La energia eolica y sus aplicaciones
-- Simulacion de procesos industriales {: .label .label-yellow .text-red}
+- Simulacion de procesos industriales
 - Sistemas industriales de control adaptativo
 - Sistemas y metodos en electronica de potencia
+
+## Grado
+
+- ZZZZZZZZZZZZZZZ
+- ZZZZZZZZZZZZZZZ
+- ZZZZZZZZZZZZZZZ
+- ZZZZZZZZZZZZZZZ
+- ZZZZZZZZZZZZZZZ
+- ZZZZZZZZZZZZZZZ
+- ZZZZZZZZZZZZZZZ
+- ZZZZZZZZZZZZZZZ
 
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
