@@ -29,7 +29,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 - ZZZZZZZZZZZZZZZ
 - ZZZZZZZZZZZZZZZ
 
-  [![Instagram](https://www.svgrepo.com/show/123786/instagram.svg)](https://www.instagram.com/reengstuff/){:style="background: none"}
+  [![Instagram](https://www.svgrepo.com/show/123786/instagram.svg =100x100)](https://www.instagram.com/reengstuff/){:style="background: none"}
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
 ## Examples
