@@ -14,7 +14,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 - Energías renovables
 - El hidrogeno como vector energético
 - La energia eolica y sus aplicaciones
-- Simulacion de procesos industriales
+- Simulacion de procesos industriales {: .label .label-yellow .text-red}
 - Sistemas industriales de control adaptativo
 - Sistemas y metodos en electronica de potencia
 
