@@ -18,23 +18,49 @@ excerpt: "Facilitando el aprendizaje de conceptos de ingeniería eléctrica y el
 - Sistemas industriales de control adaptativo
 - Sistemas y metodos en electronica de potencia
 
+- TECNOLOGÍA ELECTRÓNICA APLICADA A LA CALIDAD ELÉCTRICA
+- COMPATIBILIDAD ELECTROMAGNÉTICA (EMC)
+- CONTROL AVANZADO DE MÁQUINAS ELÉCTRICAS
+- FIABILIDAD Y MANTENIMIENTO DE SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS
+- SEGURIDAD EN REDES INDUSTRIALES	
+- APLICACIONES INDUSTRIALES DE LAS COMUNICACIONES
+
+Mirar si compensa incluirlo en un futuro !!
+MÁSTER UNIVERSITARIO EN INGENIERÍA Y CIENCIA DE DATOS
+MÁSTER UNIVERSITARIO EN INVESTIGACIÓN EN INTELIGENCIA ARTIFICIAL
 ## Grado
+
+- Matemáticas I
+- 	Física I
+- Fundamentos de administración de empresas
 - Informática
+- Química
+- Matemáticas II
+- Física II
+- Expresión gráfica y diseño asistido por ordenador
+- Ingeniería del medio ambiente
 - Fundamentos de electrotecnia
 - Termodinámica técnica y fundamentos de transmisión de calor
+- Mecánica
 - Análisis de circuitos eléctricos
+- Matemáticas III
+- Estadística
 - Fundamentos de electrónica
 - Resistencia de materiales
 - Sistemas automáticos
+- Ingeniería de materiales
 - Máquinas eléctricas I
+- Tecnologías de fabricación
 - Electrónica de potencia
 - Instalaciones eléctricas de baja tensión
 - Máquinas eléctricas II
 - Ingeniería de control
 - Mecánica de fluidos
+- Organización y dirección de empresas
 - Líneas eléctricas
 - Instalaciones eléctricas en media y alta tensión
 - Accionamientos de máquinas eléctricas
+- Oficina de proyectos
 - Sistemas eléctricos de potencia
 - Centrales eléctricas
 - Instalaciones de producción eléctrica con energías renovables
