@@ -13,7 +13,7 @@ excerpt: "Facilitando el aprendizaje de conceptos de ingeniería eléctrica y el
 - Explotacion de los sistemas eléctricos
 - Energías renovables
 - El hidrogeno como vector energético
-- La energia eolica y sus aplicaciones
+- [La energia eolica y sus aplicaciones](https://github.com/daviddarnes/alembic/issues?q=is%3Aopen+is%3Aissue+no%3Alabel)
 - Simulacion de procesos industriales
 - Sistemas industriales de control adaptativo
 - Sistemas y metodos en electronica de potencia
